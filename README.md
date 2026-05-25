@@ -18,7 +18,7 @@ hiii
   ## 💰 You can help me by Donating
   <!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/e) -->
 
-[![UPI](https://img.shields.io/badge/UPI-Payment-28A745?style=for-the-badge)](https://raw.githubusercontent.com/IyVE04/mysite/page/index)
+[![UPI](https://img.shields.io/badge/UPI-Payment-28A745?style=for-the-badge)](https://raw.githubusercontent.com/IyVE04/mysite/page/index/payqr.jpeg)
   
 
   
