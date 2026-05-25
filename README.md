@@ -16,7 +16,9 @@ hiii
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IyVE04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/e) 
+  <!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/e) -->
+
+  [![UPI](https://img.shields.io/badge/UPI-Payment-000000?style=for-the-badge)](upi://pay?pa=irtizahussain444@oksbi)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
