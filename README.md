@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## ➡️ <a href="https://myself-iyve-profile-main.vercel.app/"   >PROFILE</a>
 
-https://myself-iyve-profile-main.vercel.app/
+<!--https://myself-iyve-profile-main.vercel.app/-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_i_y_v_e_?utm_source=qr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/MuShraaan/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTZDQwMf6Os1eh2FQ58BPbw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irtizahussain444@gmail.com) 
